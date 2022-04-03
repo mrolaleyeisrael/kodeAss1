@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodeAss1/static/css/main.37e690e8.css",
+    "main.js": "/kodeAss1/static/js/main.1f46c500.js",
+    "static/js/787.001e509f.chunk.js": "/kodeAss1/static/js/787.001e509f.chunk.js",
+    "index.html": "/kodeAss1/index.html",
+    "main.37e690e8.css.map": "/kodeAss1/static/css/main.37e690e8.css.map",
+    "main.1f46c500.js.map": "/kodeAss1/static/js/main.1f46c500.js.map",
+    "787.001e509f.chunk.js.map": "/kodeAss1/static/js/787.001e509f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e690e8.css",
+    "static/js/main.1f46c500.js"
+  ]
+}
